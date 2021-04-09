@@ -10,9 +10,10 @@
     <br />
   </p>
 </p>
-- 👋 Hi, I’m @theDjangoGuy
-- 👀 I’m an easy Django documentation
-- 🌱 I’m built specificaly for You
+
+- 👋 Hi, I’m @theDjangoGuy <br>
+- 👀 I’m an easy Django documentation <br>
+- 🌱 I’m built specificaly for You <br>
 - 💞️ For you to become the Django Guy
 
 
